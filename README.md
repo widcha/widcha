@@ -48,19 +48,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=widcha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widcha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://streak-stats.demolab.com/?user=widcha&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=widcha&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=widcha&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=widcha&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ---
