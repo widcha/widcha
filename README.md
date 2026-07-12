@@ -1,19 +1,18 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Wido%20Wicaksono&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Jakarta&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Wido%20Wicaksono&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Go&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/widcha">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=560&lines=Software+Engineer+based+in+Jakarta;Backend+systems+in+Go;IoT%2C+APIs+%26+developer+tools;Open+to+new+opportunities" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=560&lines=Software+Engineer;Backend+systems+in+Go;IoT%2C+APIs+%26+developer+tools" alt="typing"/>
   </a>
 </p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=widcha&label=Profile%20views&color=26d0ce&style=flat" alt="views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-26d0ce?style=flat" alt="open to work"/>
   <a href="mailto:widowicak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
@@ -25,7 +24,7 @@
 - 🧩  Day-to-day in **Go** — REST APIs, message-driven & real-time systems
 - 🌱  Exploring **agentic developer workflows** (tooling around Claude Code)
 - 🧠  Background across **TypeScript/NestJS, React, Python**, and **ESP8266/C++ IoT**
-- 📫  Reach me at **widowicak@gmail.com** · 📍 Jakarta, Indonesia
+- 📫  Reach me at **widowicak@gmail.com**
 
 ---
 
